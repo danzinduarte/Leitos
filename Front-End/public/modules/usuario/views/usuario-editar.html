@@ -1,0 +1,137 @@
+<md-toolbar>
+        <div class="md-toolbar-tools" style="background-color: lightskyblue;">
+          <h2>Editar Usuario</h2>
+          <span flex></span>
+        </div>
+      </md-toolbar>
+     
+        <form name="vm.porteiroForm">
+            <md-content class="md-padding">
+                <h1 class="md-display-1">Dados Pessoais: </h1>
+                <div layout="row">
+                    <md-input-container flex>
+                        <label>Email</label>
+                        <input type="email" name="email" required ng-model="vm.ds.usuario.email" placeholder="Ex: email@mail.com"> 
+                        <div ng-messages="vm.porteiroForm.email.$error">
+                            <div ng-message="required">Este campo é obrigatório</div>
+                        </div>	             
+                    </md-input-container>
+                    <md-input-container flex>
+                        <label>Senha</label>
+                        <input type="{{vm.tipo}}" name="senha" required ng-model="vm.ds.usuario.senha"> 
+                        <div ng-messages="vm.porteiroForm.senha.$error">
+                            <div ng-message="required">Este campo é obrigatório</div>
+                        </div>	             
+                    </md-input-container>
+                    <md-button ng-click="vm.show(vm.status)" class="md-icon-button">
+                        <md-tooltip md-direction="top">Exibir Senha?</md-tooltip> 
+                        <md-icon md-svg-icon="assets/img/{{vm.status}}.svg"></md-icon>
+                    </md-button>
+                    <md-input-container flex ng-show="vm.porteiroForm.senha.$valid">
+                            <label>Confirme a Senha</label>
+                            <input type="password" name="senha1" ng-model="vm.ds.condominoSenha1" required ng-pattern="vm.ds.usuario.senha" > 
+                            <div ng-messages="vm.porteiroForm.senha1.$error">
+                                <div ng-message="required">Este campo é obrigatório</div>
+                                <div ng-message="pattern">Senhas nao correspondem</div>
+                            </div>	             
+                    </md-input-container>  
+                </div>
+                <div layout="row">  
+                      <md-input-container flex>
+                          <label>Nome</label>
+                          <input name="nome" required ng-model="vm.ds.pessoa.nome"> 
+                          <div ng-messages="vm.porteiroForm.nome.$error">
+                              <div ng-message="required">Este campo é obrigatório</div>
+                          </div>	             
+                      </md-input-container flex>
+                      <md-input-container flex>
+                              <label>Nascimento</label>
+                              <md-datepicker name="nascimento" required ng-model="vm.ds.pessoa.nascimento" > 
+                              <div ng-messages="vm.porteiroForm.nascimento.$error">
+                                  <div ng-message="required">Este campo é obrigatório</div>
+                              </div>	             
+                      </md-input-container>
+                      <md-input-container flex>
+                          <label>CPF</label>
+                          <input type="text" name="cpf" required ng-model="vm.ds.pessoa.cpf" ui-br-cpf-mask> 
+                          <div ng-messages="vm.porteiroForm.cpf.$error">
+                              <div ng-message="required">Este campo é obrigatório</div>
+                              <div ng-message="pattern">Este campo é obrigatório</div>
+                          </div>                
+                      </md-input-container>
+                </div>
+                <div layout="row">
+                    <md-input-container flex>
+                        <label>Logradouro</label>
+                        <input name="logradouro" required ng-model="vm.ds.pessoa.enderecoLogradouro" disabled> 
+                        <div ng-messages="vm.porteiroForm.logradouro.$error">
+                            <div ng-message="required">Este campo é obrigatório</div>
+                        </div>
+                    </md-input-container> 
+                    <md-input-container flex="10">
+                            <label>Numero</label>
+                            <input type="text" name="numero" required ng-model="vm.ds.pessoa.enderecoNumero" disabled> 
+                            <div ng-messages="vm.porteiroForm.numero.$error">
+                                <div ng-message="required">Este campo é obrigatório</div>
+                            </div>
+                    </md-input-container>
+                    <md-input-container flex>
+                            <label>Bairro</label>
+                            <input name="bairro" required ng-model="vm.ds.pessoa.enderecoBairro" disabled> 
+                            <div ng-messages="vm.porteiroForm.bairro.$error">
+                                <div ng-message="required">Este campo é obrigatório</div>
+                            </div>
+                    </md-input-container>
+                </div>
+                <div layout="row">
+                    <md-input-container flex>
+                            <label>Cidade</label>
+                            <input name="cidade" required ng-model="vm.ds.pessoa.enderecoCidade" disabled> 
+                            <div ng-messages="vm.porteiroForm.cidade.$error">
+                                <div ng-message="required">Este campo é obrigatório</div>
+                            </div>
+                    </md-input-container>
+                    <md-input-container flex>
+                          <label>UF</label>
+                          <md-select ng-model="vm.ds.pessoa.enderecoUf" disabled>
+                              <md-option><em>None</em></md-option>
+                              <md-option ng-repeat="estados in vm.estados" ng-value="estados.abbrev" >
+                                    {{estados.abbrev}}
+                              </md-option>
+                          </md-select>
+                          <div ng-messages="vm.porteiroForm.uf.$error">
+                              <div ng-message="required">Este campo é obrigatório</div>
+                          </div>
+                    </md-input-container>                    
+                </div>
+                <div layout="row">  
+                        <md-input-container flex>
+                            <label>Localização no Condominio</label>
+                            <input name="condominoEndereco" required ng-model="vm.ds.endereco"> 
+                            <div ng-messages="vm.porteiroForm.condominoEndereco.$error">
+                                <div ng-message="required">Este campo é obrigatório</div>
+                            </div>	             
+                        </md-input-container>
+                </div>
+            </md-content>    
+        </form>    
+  
+        
+        <span flex></span>
+        <md-button class="md-warn md-raised" ng-click="vm.cancelar()" >
+          Cancelar
+        </md-button>
+        <md-button class="md-primary md-raised"  ng-click="vm.salvar()" style="margin-right:20px;"  ng-disabled="vm.porteiroForm.$invalid" >
+          Salvar
+        </md-button>
+        
+    
+   
+  
+           
+  
+  
+  
+  
+              
+  

@@ -1,0 +1,108 @@
+C:\Users\Adsoft developer\Documents\GitHub\Sistema-Viagem\Back-End\Validation\bin\Debug\netcoreapp2.2\Validation.deps.json
+C:\Users\Adsoft developer\Documents\GitHub\Sistema-Viagem\Back-End\Validation\bin\Debug\netcoreapp2.2\Validation.dll
+C:\Users\Adsoft developer\Documents\GitHub\Sistema-Viagem\Back-End\Validation\bin\Debug\netcoreapp2.2\Validation.pdb
+C:\Users\Adsoft developer\Documents\GitHub\Sistema-Viagem\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.csprojAssemblyReference.cache
+C:\Users\Adsoft developer\Documents\GitHub\Sistema-Viagem\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.csproj.CoreCompileInputs.cache
+C:\Users\Adsoft developer\Documents\GitHub\Sistema-Viagem\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.AssemblyInfoInputs.cache
+C:\Users\Adsoft developer\Documents\GitHub\Sistema-Viagem\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.AssemblyInfo.cs
+C:\Users\Adsoft developer\Documents\GitHub\Sistema-Viagem\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.dll
+C:\Users\Adsoft developer\Documents\GitHub\Sistema-Viagem\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.pdb
+C:\Users\Danilo\Documents\sistema de viagens\Back-End\Validation\bin\Debug\netcoreapp2.2\Validation.deps.json
+C:\Users\Danilo\Documents\sistema de viagens\Back-End\Validation\bin\Debug\netcoreapp2.2\Validation.dll
+C:\Users\Danilo\Documents\sistema de viagens\Back-End\Validation\bin\Debug\netcoreapp2.2\Validation.pdb
+C:\Users\Danilo\Documents\sistema de viagens\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.csprojAssemblyReference.cache
+C:\Users\Danilo\Documents\sistema de viagens\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.csproj.CoreCompileInputs.cache
+C:\Users\Danilo\Documents\sistema de viagens\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.AssemblyInfoInputs.cache
+C:\Users\Danilo\Documents\sistema de viagens\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.AssemblyInfo.cs
+C:\Users\Danilo\Documents\sistema de viagens\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.dll
+C:\Users\Danilo\Documents\sistema de viagens\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.pdb
+C:\Users\Danilo\Documents\WebApi Final\Back-End\Validation\bin\Debug\netcoreapp2.2\Validation.deps.json
+C:\Users\Danilo\Documents\WebApi Final\Back-End\Validation\bin\Debug\netcoreapp2.2\Validation.dll
+C:\Users\Danilo\Documents\WebApi Final\Back-End\Validation\bin\Debug\netcoreapp2.2\Validation.pdb
+C:\Users\Danilo\Documents\WebApi Final\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.csprojAssemblyReference.cache
+C:\Users\Danilo\Documents\WebApi Final\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.csproj.CoreCompileInputs.cache
+C:\Users\Danilo\Documents\WebApi Final\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.AssemblyInfoInputs.cache
+C:\Users\Danilo\Documents\WebApi Final\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.AssemblyInfo.cs
+C:\Users\Danilo\Documents\WebApi Final\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.dll
+C:\Users\Danilo\Documents\WebApi Final\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.pdb
+E:\Users\Danilo\Documents\WebApi Final\Back-End\Validation\bin\Debug\netcoreapp2.2\Validation.deps.json
+E:\Users\Danilo\Documents\WebApi Final\Back-End\Validation\bin\Debug\netcoreapp2.2\Validation.dll
+E:\Users\Danilo\Documents\WebApi Final\Back-End\Validation\bin\Debug\netcoreapp2.2\Validation.pdb
+E:\Users\Danilo\Documents\WebApi Final\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.csprojAssemblyReference.cache
+E:\Users\Danilo\Documents\WebApi Final\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.csproj.CoreCompileInputs.cache
+E:\Users\Danilo\Documents\WebApi Final\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.AssemblyInfoInputs.cache
+E:\Users\Danilo\Documents\WebApi Final\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.AssemblyInfo.cs
+E:\Users\Danilo\Documents\WebApi Final\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.dll
+E:\Users\Danilo\Documents\WebApi Final\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.pdb
+C:\Users\Dan\Documents\WebApi Final\Back-End\Validation\bin\Debug\netcoreapp2.2\Validation.deps.json
+C:\Users\Dan\Documents\WebApi Final\Back-End\Validation\bin\Debug\netcoreapp2.2\Validation.dll
+C:\Users\Dan\Documents\WebApi Final\Back-End\Validation\bin\Debug\netcoreapp2.2\Validation.pdb
+C:\Users\Dan\Documents\WebApi Final\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.csprojAssemblyReference.cache
+C:\Users\Dan\Documents\WebApi Final\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.csproj.CoreCompileInputs.cache
+C:\Users\Dan\Documents\WebApi Final\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.AssemblyInfoInputs.cache
+C:\Users\Dan\Documents\WebApi Final\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.AssemblyInfo.cs
+C:\Users\Dan\Documents\WebApi Final\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.dll
+C:\Users\Dan\Documents\WebApi Final\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.pdb
+C:\Users\Dan\Documents\WebApi Final\apifinal\Back-End\Validation\bin\Debug\netcoreapp2.2\Validation.deps.json
+C:\Users\Dan\Documents\WebApi Final\apifinal\Back-End\Validation\bin\Debug\netcoreapp2.2\Validation.dll
+C:\Users\Dan\Documents\WebApi Final\apifinal\Back-End\Validation\bin\Debug\netcoreapp2.2\Validation.pdb
+C:\Users\Dan\Documents\WebApi Final\apifinal\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.csprojAssemblyReference.cache
+C:\Users\Dan\Documents\WebApi Final\apifinal\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.csproj.CoreCompileInputs.cache
+C:\Users\Dan\Documents\WebApi Final\apifinal\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.AssemblyInfoInputs.cache
+C:\Users\Dan\Documents\WebApi Final\apifinal\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.AssemblyInfo.cs
+C:\Users\Dan\Documents\WebApi Final\apifinal\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.dll
+C:\Users\Dan\Documents\WebApi Final\apifinal\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.pdb
+C:\Users\Dan\Documents\WebApi Final\WebApi-Final\Back-End\Validation\bin\Debug\netcoreapp2.2\Validation.deps.json
+C:\Users\Dan\Documents\WebApi Final\WebApi-Final\Back-End\Validation\bin\Debug\netcoreapp2.2\Validation.dll
+C:\Users\Dan\Documents\WebApi Final\WebApi-Final\Back-End\Validation\bin\Debug\netcoreapp2.2\Validation.pdb
+C:\Users\Dan\Documents\WebApi Final\WebApi-Final\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.csprojAssemblyReference.cache
+C:\Users\Dan\Documents\WebApi Final\WebApi-Final\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.csproj.CoreCompileInputs.cache
+C:\Users\Dan\Documents\WebApi Final\WebApi-Final\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.AssemblyInfoInputs.cache
+C:\Users\Dan\Documents\WebApi Final\WebApi-Final\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.AssemblyInfo.cs
+C:\Users\Dan\Documents\WebApi Final\WebApi-Final\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.dll
+C:\Users\Dan\Documents\WebApi Final\WebApi-Final\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.pdb
+C:\Users\tx-sup-07\source\repos\danzinduarte\WebApi-Final\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.dll
+C:\Users\tx-sup-07\source\repos\danzinduarte\WebApi-Final\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.pdb
+C:\Users\tx-sup-07\source\repos\danzinduarte\WebApi-Final\Back-End\Validation\bin\Debug\netcoreapp2.2\Validation.deps.json
+C:\Users\tx-sup-07\source\repos\danzinduarte\WebApi-Final\Back-End\Validation\bin\Debug\netcoreapp2.2\Validation.dll
+C:\Users\tx-sup-07\source\repos\danzinduarte\WebApi-Final\Back-End\Validation\bin\Debug\netcoreapp2.2\Validation.pdb
+C:\Users\tx-sup-07\source\repos\danzinduarte\WebApi-Final\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.csprojAssemblyReference.cache
+C:\Users\tx-sup-07\source\repos\danzinduarte\WebApi-Final\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.csproj.CoreCompileInputs.cache
+C:\Users\tx-sup-07\source\repos\danzinduarte\WebApi-Final\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.AssemblyInfoInputs.cache
+C:\Users\tx-sup-07\source\repos\danzinduarte\WebApi-Final\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.AssemblyInfo.cs
+C:\Users\tx-sup-07\Documents\estudos\WebApi-Final\Back-End\Validation\bin\Debug\netcoreapp2.2\Validation.deps.json
+C:\Users\tx-sup-07\Documents\estudos\WebApi-Final\Back-End\Validation\bin\Debug\netcoreapp2.2\Validation.dll
+C:\Users\tx-sup-07\Documents\estudos\WebApi-Final\Back-End\Validation\bin\Debug\netcoreapp2.2\Validation.pdb
+C:\Users\tx-sup-07\Documents\estudos\WebApi-Final\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.csprojAssemblyReference.cache
+C:\Users\tx-sup-07\Documents\estudos\WebApi-Final\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.csproj.CoreCompileInputs.cache
+C:\Users\tx-sup-07\Documents\estudos\WebApi-Final\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.AssemblyInfoInputs.cache
+C:\Users\tx-sup-07\Documents\estudos\WebApi-Final\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.AssemblyInfo.cs
+C:\Users\tx-sup-07\Documents\estudos\WebApi-Final\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.dll
+C:\Users\tx-sup-07\Documents\estudos\WebApi-Final\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.pdb
+C:\Users\tx-sup-07\Documents\estudos\Leitos-App\Back-End\Validation\bin\Debug\netcoreapp2.2\Validation.deps.json
+C:\Users\tx-sup-07\Documents\estudos\Leitos-App\Back-End\Validation\bin\Debug\netcoreapp2.2\Validation.dll
+C:\Users\tx-sup-07\Documents\estudos\Leitos-App\Back-End\Validation\bin\Debug\netcoreapp2.2\Validation.pdb
+C:\Users\tx-sup-07\Documents\estudos\Leitos-App\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.csprojAssemblyReference.cache
+C:\Users\tx-sup-07\Documents\estudos\Leitos-App\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.csproj.CoreCompileInputs.cache
+C:\Users\tx-sup-07\Documents\estudos\Leitos-App\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.AssemblyInfoInputs.cache
+C:\Users\tx-sup-07\Documents\estudos\Leitos-App\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.AssemblyInfo.cs
+C:\Users\tx-sup-07\Documents\estudos\Leitos-App\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.dll
+C:\Users\tx-sup-07\Documents\estudos\Leitos-App\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.pdb
+C:\Users\tx-sup-07\source\repos\danzinduarte\Leitos-App\Back-End\Validation\bin\Debug\netcoreapp2.2\Validation.deps.json
+C:\Users\tx-sup-07\source\repos\danzinduarte\Leitos-App\Back-End\Validation\bin\Debug\netcoreapp2.2\Validation.dll
+C:\Users\tx-sup-07\source\repos\danzinduarte\Leitos-App\Back-End\Validation\bin\Debug\netcoreapp2.2\Validation.pdb
+C:\Users\tx-sup-07\source\repos\danzinduarte\Leitos-App\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.csprojAssemblyReference.cache
+C:\Users\tx-sup-07\source\repos\danzinduarte\Leitos-App\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.csproj.CoreCompileInputs.cache
+C:\Users\tx-sup-07\source\repos\danzinduarte\Leitos-App\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.AssemblyInfoInputs.cache
+C:\Users\tx-sup-07\source\repos\danzinduarte\Leitos-App\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.AssemblyInfo.cs
+C:\Users\tx-sup-07\source\repos\danzinduarte\Leitos-App\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.dll
+C:\Users\tx-sup-07\source\repos\danzinduarte\Leitos-App\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.pdb
+C:\Users\tx-sup-07\source\repos\danzinduarte\Leitos-App\leitos aplicativo\Back-End\Validation\bin\Debug\netcoreapp2.2\Validation.deps.json
+C:\Users\tx-sup-07\source\repos\danzinduarte\Leitos-App\leitos aplicativo\Back-End\Validation\bin\Debug\netcoreapp2.2\Validation.dll
+C:\Users\tx-sup-07\source\repos\danzinduarte\Leitos-App\leitos aplicativo\Back-End\Validation\bin\Debug\netcoreapp2.2\Validation.pdb
+C:\Users\tx-sup-07\source\repos\danzinduarte\Leitos-App\leitos aplicativo\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.csprojAssemblyReference.cache
+C:\Users\tx-sup-07\source\repos\danzinduarte\Leitos-App\leitos aplicativo\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.csproj.CoreCompileInputs.cache
+C:\Users\tx-sup-07\source\repos\danzinduarte\Leitos-App\leitos aplicativo\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.AssemblyInfoInputs.cache
+C:\Users\tx-sup-07\source\repos\danzinduarte\Leitos-App\leitos aplicativo\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.AssemblyInfo.cs
+C:\Users\tx-sup-07\source\repos\danzinduarte\Leitos-App\leitos aplicativo\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.dll
+C:\Users\tx-sup-07\source\repos\danzinduarte\Leitos-App\leitos aplicativo\Back-End\Validation\obj\Debug\netcoreapp2.2\Validation.pdb

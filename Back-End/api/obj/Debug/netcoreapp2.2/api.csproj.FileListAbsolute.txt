@@ -1,0 +1,229 @@
+C:\Users\Adsoft developer\Documents\GitHub\Sistema-Viagem\Back-End\api\bin\Debug\netcoreapp2.2\api.deps.json
+C:\Users\Adsoft developer\Documents\GitHub\Sistema-Viagem\Back-End\api\bin\Debug\netcoreapp2.2\api.runtimeconfig.json
+C:\Users\Adsoft developer\Documents\GitHub\Sistema-Viagem\Back-End\api\bin\Debug\netcoreapp2.2\api.runtimeconfig.dev.json
+C:\Users\Adsoft developer\Documents\GitHub\Sistema-Viagem\Back-End\api\bin\Debug\netcoreapp2.2\api.dll
+C:\Users\Adsoft developer\Documents\GitHub\Sistema-Viagem\Back-End\api\bin\Debug\netcoreapp2.2\api.pdb
+C:\Users\Adsoft developer\Documents\GitHub\Sistema-Viagem\Back-End\api\obj\Debug\netcoreapp2.2\api.csprojAssemblyReference.cache
+C:\Users\Adsoft developer\Documents\GitHub\Sistema-Viagem\Back-End\api\obj\Debug\netcoreapp2.2\api.csproj.CoreCompileInputs.cache
+C:\Users\Adsoft developer\Documents\GitHub\Sistema-Viagem\Back-End\api\obj\Debug\netcoreapp2.2\api.RazorAssemblyInfo.cache
+C:\Users\Adsoft developer\Documents\GitHub\Sistema-Viagem\Back-End\api\obj\Debug\netcoreapp2.2\api.RazorAssemblyInfo.cs
+C:\Users\Adsoft developer\Documents\GitHub\Sistema-Viagem\Back-End\api\obj\Debug\netcoreapp2.2\api.AssemblyInfoInputs.cache
+C:\Users\Adsoft developer\Documents\GitHub\Sistema-Viagem\Back-End\api\obj\Debug\netcoreapp2.2\api.AssemblyInfo.cs
+C:\Users\Adsoft developer\Documents\GitHub\Sistema-Viagem\Back-End\api\obj\Debug\netcoreapp2.2\api.RazorTargetAssemblyInfo.cache
+C:\Users\Adsoft developer\Documents\GitHub\Sistema-Viagem\Back-End\api\obj\Debug\netcoreapp2.2\api.dll
+C:\Users\Adsoft developer\Documents\GitHub\Sistema-Viagem\Back-End\api\obj\Debug\netcoreapp2.2\api.pdb
+C:\Users\italo\Documents\GitHub\Sistema-Viagem\Back-End\api\bin\Debug\netcoreapp2.2\api.deps.json
+C:\Users\italo\Documents\GitHub\Sistema-Viagem\Back-End\api\bin\Debug\netcoreapp2.2\api.runtimeconfig.json
+C:\Users\italo\Documents\GitHub\Sistema-Viagem\Back-End\api\bin\Debug\netcoreapp2.2\api.runtimeconfig.dev.json
+C:\Users\italo\Documents\GitHub\Sistema-Viagem\Back-End\api\bin\Debug\netcoreapp2.2\api.dll
+C:\Users\italo\Documents\GitHub\Sistema-Viagem\Back-End\api\bin\Debug\netcoreapp2.2\api.pdb
+C:\Users\italo\Documents\GitHub\Sistema-Viagem\Back-End\api\obj\Debug\netcoreapp2.2\api.csprojAssemblyReference.cache
+C:\Users\italo\Documents\GitHub\Sistema-Viagem\Back-End\api\obj\Debug\netcoreapp2.2\api.csproj.CoreCompileInputs.cache
+C:\Users\italo\Documents\GitHub\Sistema-Viagem\Back-End\api\obj\Debug\netcoreapp2.2\api.RazorAssemblyInfo.cache
+C:\Users\italo\Documents\GitHub\Sistema-Viagem\Back-End\api\obj\Debug\netcoreapp2.2\api.RazorAssemblyInfo.cs
+C:\Users\italo\Documents\GitHub\Sistema-Viagem\Back-End\api\obj\Debug\netcoreapp2.2\api.AssemblyInfoInputs.cache
+C:\Users\italo\Documents\GitHub\Sistema-Viagem\Back-End\api\obj\Debug\netcoreapp2.2\api.AssemblyInfo.cs
+C:\Users\italo\Documents\GitHub\Sistema-Viagem\Back-End\api\obj\Debug\netcoreapp2.2\api.RazorTargetAssemblyInfo.cache
+C:\Users\italo\Documents\GitHub\Sistema-Viagem\Back-End\api\obj\Debug\netcoreapp2.2\api.dll
+C:\Users\italo\Documents\GitHub\Sistema-Viagem\Back-End\api\obj\Debug\netcoreapp2.2\api.pdb
+C:\Users\Danilo\Documents\Sistema-Viagem-master\Back-End\api\bin\Debug\netcoreapp2.2\api.deps.json
+C:\Users\Danilo\Documents\Sistema-Viagem-master\Back-End\api\bin\Debug\netcoreapp2.2\api.runtimeconfig.json
+C:\Users\Danilo\Documents\Sistema-Viagem-master\Back-End\api\bin\Debug\netcoreapp2.2\api.runtimeconfig.dev.json
+C:\Users\Danilo\Documents\Sistema-Viagem-master\Back-End\api\bin\Debug\netcoreapp2.2\api.dll
+C:\Users\Danilo\Documents\Sistema-Viagem-master\Back-End\api\bin\Debug\netcoreapp2.2\api.pdb
+C:\Users\Danilo\Documents\Sistema-Viagem-master\Back-End\api\obj\Debug\netcoreapp2.2\api.csprojAssemblyReference.cache
+C:\Users\Danilo\Documents\Sistema-Viagem-master\Back-End\api\obj\Debug\netcoreapp2.2\api.csproj.CoreCompileInputs.cache
+C:\Users\Danilo\Documents\Sistema-Viagem-master\Back-End\api\obj\Debug\netcoreapp2.2\api.RazorAssemblyInfo.cache
+C:\Users\Danilo\Documents\Sistema-Viagem-master\Back-End\api\obj\Debug\netcoreapp2.2\api.RazorAssemblyInfo.cs
+C:\Users\Danilo\Documents\Sistema-Viagem-master\Back-End\api\obj\Debug\netcoreapp2.2\api.AssemblyInfoInputs.cache
+C:\Users\Danilo\Documents\Sistema-Viagem-master\Back-End\api\obj\Debug\netcoreapp2.2\api.AssemblyInfo.cs
+C:\Users\Danilo\Documents\Sistema-Viagem-master\Back-End\api\obj\Debug\netcoreapp2.2\api.RazorTargetAssemblyInfo.cache
+C:\Users\Danilo\Documents\Sistema-Viagem-master\Back-End\api\obj\Debug\netcoreapp2.2\api.dll
+C:\Users\Danilo\Documents\Sistema-Viagem-master\Back-End\api\obj\Debug\netcoreapp2.2\api.pdb
+C:\Users\Danilo\Documents\sistema de viagens\Back-End\api\bin\Debug\netcoreapp2.2\api.deps.json
+C:\Users\Danilo\Documents\sistema de viagens\Back-End\api\bin\Debug\netcoreapp2.2\api.runtimeconfig.json
+C:\Users\Danilo\Documents\sistema de viagens\Back-End\api\bin\Debug\netcoreapp2.2\api.runtimeconfig.dev.json
+C:\Users\Danilo\Documents\sistema de viagens\Back-End\api\bin\Debug\netcoreapp2.2\api.dll
+C:\Users\Danilo\Documents\sistema de viagens\Back-End\api\bin\Debug\netcoreapp2.2\api.pdb
+C:\Users\Danilo\Documents\sistema de viagens\Back-End\api\obj\Debug\netcoreapp2.2\api.csprojAssemblyReference.cache
+C:\Users\Danilo\Documents\sistema de viagens\Back-End\api\obj\Debug\netcoreapp2.2\api.csproj.CoreCompileInputs.cache
+C:\Users\Danilo\Documents\sistema de viagens\Back-End\api\obj\Debug\netcoreapp2.2\api.RazorAssemblyInfo.cache
+C:\Users\Danilo\Documents\sistema de viagens\Back-End\api\obj\Debug\netcoreapp2.2\api.RazorAssemblyInfo.cs
+C:\Users\Danilo\Documents\sistema de viagens\Back-End\api\obj\Debug\netcoreapp2.2\api.AssemblyInfoInputs.cache
+C:\Users\Danilo\Documents\sistema de viagens\Back-End\api\obj\Debug\netcoreapp2.2\api.AssemblyInfo.cs
+C:\Users\Danilo\Documents\sistema de viagens\Back-End\api\obj\Debug\netcoreapp2.2\api.RazorTargetAssemblyInfo.cache
+C:\Users\Danilo\Documents\sistema de viagens\Back-End\api\obj\Debug\netcoreapp2.2\api.dll
+C:\Users\Danilo\Documents\sistema de viagens\Back-End\api\obj\Debug\netcoreapp2.2\api.pdb
+c:\Users\Danilo\Documents\sistema de viagens\Back-End\api\bin\Debug\netcoreapp2.2\Validation.dll
+c:\Users\Danilo\Documents\sistema de viagens\Back-End\api\bin\Debug\netcoreapp2.2\Validation.pdb
+c:\Users\Danilo\Documents\sistema de viagens\Back-End\api\obj\Debug\netcoreapp2.2\api.csproj.CopyComplete
+C:\Users\Danilo\Documents\WebApi Final\Back-End\api\bin\Debug\netcoreapp2.2\api.deps.json
+C:\Users\Danilo\Documents\WebApi Final\Back-End\api\bin\Debug\netcoreapp2.2\api.runtimeconfig.json
+C:\Users\Danilo\Documents\WebApi Final\Back-End\api\bin\Debug\netcoreapp2.2\api.runtimeconfig.dev.json
+C:\Users\Danilo\Documents\WebApi Final\Back-End\api\bin\Debug\netcoreapp2.2\api.dll
+C:\Users\Danilo\Documents\WebApi Final\Back-End\api\bin\Debug\netcoreapp2.2\api.pdb
+C:\Users\Danilo\Documents\WebApi Final\Back-End\api\bin\Debug\netcoreapp2.2\Validation.dll
+C:\Users\Danilo\Documents\WebApi Final\Back-End\api\bin\Debug\netcoreapp2.2\Validation.pdb
+C:\Users\Danilo\Documents\WebApi Final\Back-End\api\obj\Debug\netcoreapp2.2\api.csprojAssemblyReference.cache
+C:\Users\Danilo\Documents\WebApi Final\Back-End\api\obj\Debug\netcoreapp2.2\api.csproj.CoreCompileInputs.cache
+C:\Users\Danilo\Documents\WebApi Final\Back-End\api\obj\Debug\netcoreapp2.2\api.RazorAssemblyInfo.cache
+C:\Users\Danilo\Documents\WebApi Final\Back-End\api\obj\Debug\netcoreapp2.2\api.RazorAssemblyInfo.cs
+C:\Users\Danilo\Documents\WebApi Final\Back-End\api\obj\Debug\netcoreapp2.2\api.AssemblyInfoInputs.cache
+C:\Users\Danilo\Documents\WebApi Final\Back-End\api\obj\Debug\netcoreapp2.2\api.AssemblyInfo.cs
+C:\Users\Danilo\Documents\WebApi Final\Back-End\api\obj\Debug\netcoreapp2.2\api.RazorTargetAssemblyInfo.cache
+C:\Users\Danilo\Documents\WebApi Final\Back-End\api\obj\Debug\netcoreapp2.2\api.csproj.CopyComplete
+C:\Users\Danilo\Documents\WebApi Final\Back-End\api\obj\Debug\netcoreapp2.2\api.dll
+C:\Users\Danilo\Documents\WebApi Final\Back-End\api\obj\Debug\netcoreapp2.2\api.pdb
+E:\Users\Danilo\Documents\WebApi Final\Back-End\api\obj\Debug\netcoreapp2.2\api.csprojAssemblyReference.cache
+E:\Users\Danilo\Documents\WebApi Final\Back-End\api\obj\Debug\netcoreapp2.2\api.csproj.CoreCompileInputs.cache
+E:\Users\Danilo\Documents\WebApi Final\Back-End\api\obj\Debug\netcoreapp2.2\api.RazorAssemblyInfo.cache
+E:\Users\Danilo\Documents\WebApi Final\Back-End\api\obj\Debug\netcoreapp2.2\api.RazorAssemblyInfo.cs
+E:\Users\Danilo\Documents\WebApi Final\Back-End\api\obj\Debug\netcoreapp2.2\api.AssemblyInfoInputs.cache
+E:\Users\Danilo\Documents\WebApi Final\Back-End\api\obj\Debug\netcoreapp2.2\api.AssemblyInfo.cs
+E:\Users\Danilo\Documents\WebApi Final\Back-End\api\obj\Debug\netcoreapp2.2\api.dll
+E:\Users\Danilo\Documents\WebApi Final\Back-End\api\obj\Debug\netcoreapp2.2\api.pdb
+E:\Users\Danilo\Documents\WebApi Final\Back-End\api\bin\Debug\netcoreapp2.2\api.deps.json
+E:\Users\Danilo\Documents\WebApi Final\Back-End\api\bin\Debug\netcoreapp2.2\api.runtimeconfig.json
+E:\Users\Danilo\Documents\WebApi Final\Back-End\api\bin\Debug\netcoreapp2.2\api.runtimeconfig.dev.json
+E:\Users\Danilo\Documents\WebApi Final\Back-End\api\bin\Debug\netcoreapp2.2\api.dll
+E:\Users\Danilo\Documents\WebApi Final\Back-End\api\bin\Debug\netcoreapp2.2\api.pdb
+E:\Users\Danilo\Documents\WebApi Final\Back-End\api\bin\Debug\netcoreapp2.2\Validation.dll
+E:\Users\Danilo\Documents\WebApi Final\Back-End\api\bin\Debug\netcoreapp2.2\Validation.pdb
+E:\Users\Danilo\Documents\WebApi Final\Back-End\api\obj\Debug\netcoreapp2.2\api.RazorTargetAssemblyInfo.cache
+E:\Users\Danilo\Documents\WebApi Final\Back-End\api\obj\Debug\netcoreapp2.2\api.csproj.CopyComplete
+C:\Users\Dan\Documents\WebApi Final\Back-End\api\bin\Debug\netcoreapp2.2\api.deps.json
+C:\Users\Dan\Documents\WebApi Final\Back-End\api\bin\Debug\netcoreapp2.2\api.runtimeconfig.json
+C:\Users\Dan\Documents\WebApi Final\Back-End\api\bin\Debug\netcoreapp2.2\api.runtimeconfig.dev.json
+C:\Users\Dan\Documents\WebApi Final\Back-End\api\bin\Debug\netcoreapp2.2\api.dll
+C:\Users\Dan\Documents\WebApi Final\Back-End\api\bin\Debug\netcoreapp2.2\api.pdb
+C:\Users\Dan\Documents\WebApi Final\Back-End\api\bin\Debug\netcoreapp2.2\Validation.dll
+C:\Users\Dan\Documents\WebApi Final\Back-End\api\bin\Debug\netcoreapp2.2\Validation.pdb
+C:\Users\Dan\Documents\WebApi Final\Back-End\api\obj\Debug\netcoreapp2.2\api.csprojAssemblyReference.cache
+C:\Users\Dan\Documents\WebApi Final\Back-End\api\obj\Debug\netcoreapp2.2\api.csproj.CoreCompileInputs.cache
+C:\Users\Dan\Documents\WebApi Final\Back-End\api\obj\Debug\netcoreapp2.2\api.RazorAssemblyInfo.cache
+C:\Users\Dan\Documents\WebApi Final\Back-End\api\obj\Debug\netcoreapp2.2\api.RazorAssemblyInfo.cs
+C:\Users\Dan\Documents\WebApi Final\Back-End\api\obj\Debug\netcoreapp2.2\api.AssemblyInfoInputs.cache
+C:\Users\Dan\Documents\WebApi Final\Back-End\api\obj\Debug\netcoreapp2.2\api.AssemblyInfo.cs
+C:\Users\Dan\Documents\WebApi Final\Back-End\api\obj\Debug\netcoreapp2.2\api.RazorTargetAssemblyInfo.cache
+C:\Users\Dan\Documents\WebApi Final\Back-End\api\obj\Debug\netcoreapp2.2\api.csproj.CopyComplete
+C:\Users\Dan\Documents\WebApi Final\Back-End\api\obj\Debug\netcoreapp2.2\api.dll
+C:\Users\Dan\Documents\WebApi Final\Back-End\api\obj\Debug\netcoreapp2.2\api.pdb
+C:\Users\Dan\Documents\WebApi Final\apifinal\Back-End\api\bin\Debug\netcoreapp2.2\api.deps.json
+C:\Users\Dan\Documents\WebApi Final\apifinal\Back-End\api\bin\Debug\netcoreapp2.2\api.runtimeconfig.json
+C:\Users\Dan\Documents\WebApi Final\apifinal\Back-End\api\bin\Debug\netcoreapp2.2\api.runtimeconfig.dev.json
+C:\Users\Dan\Documents\WebApi Final\apifinal\Back-End\api\bin\Debug\netcoreapp2.2\api.dll
+C:\Users\Dan\Documents\WebApi Final\apifinal\Back-End\api\bin\Debug\netcoreapp2.2\api.pdb
+C:\Users\Dan\Documents\WebApi Final\apifinal\Back-End\api\bin\Debug\netcoreapp2.2\Validation.dll
+C:\Users\Dan\Documents\WebApi Final\apifinal\Back-End\api\bin\Debug\netcoreapp2.2\Validation.pdb
+C:\Users\Dan\Documents\WebApi Final\apifinal\Back-End\api\obj\Debug\netcoreapp2.2\api.csprojAssemblyReference.cache
+C:\Users\Dan\Documents\WebApi Final\apifinal\Back-End\api\obj\Debug\netcoreapp2.2\api.csproj.CoreCompileInputs.cache
+C:\Users\Dan\Documents\WebApi Final\apifinal\Back-End\api\obj\Debug\netcoreapp2.2\api.RazorAssemblyInfo.cache
+C:\Users\Dan\Documents\WebApi Final\apifinal\Back-End\api\obj\Debug\netcoreapp2.2\api.RazorAssemblyInfo.cs
+C:\Users\Dan\Documents\WebApi Final\apifinal\Back-End\api\obj\Debug\netcoreapp2.2\api.AssemblyInfoInputs.cache
+C:\Users\Dan\Documents\WebApi Final\apifinal\Back-End\api\obj\Debug\netcoreapp2.2\api.AssemblyInfo.cs
+C:\Users\Dan\Documents\WebApi Final\apifinal\Back-End\api\obj\Debug\netcoreapp2.2\api.RazorTargetAssemblyInfo.cache
+C:\Users\Dan\Documents\WebApi Final\apifinal\Back-End\api\obj\Debug\netcoreapp2.2\api.csproj.CopyComplete
+C:\Users\Dan\Documents\WebApi Final\apifinal\Back-End\api\obj\Debug\netcoreapp2.2\api.dll
+C:\Users\Dan\Documents\WebApi Final\apifinal\Back-End\api\obj\Debug\netcoreapp2.2\api.pdb
+C:\Users\Dan\Documents\WebApi Final\WebApi-Final\Back-End\api\bin\Debug\netcoreapp2.2\api.deps.json
+C:\Users\Dan\Documents\WebApi Final\WebApi-Final\Back-End\api\bin\Debug\netcoreapp2.2\api.runtimeconfig.json
+C:\Users\Dan\Documents\WebApi Final\WebApi-Final\Back-End\api\bin\Debug\netcoreapp2.2\api.runtimeconfig.dev.json
+C:\Users\Dan\Documents\WebApi Final\WebApi-Final\Back-End\api\bin\Debug\netcoreapp2.2\api.dll
+C:\Users\Dan\Documents\WebApi Final\WebApi-Final\Back-End\api\bin\Debug\netcoreapp2.2\api.pdb
+C:\Users\Dan\Documents\WebApi Final\WebApi-Final\Back-End\api\bin\Debug\netcoreapp2.2\Validation.dll
+C:\Users\Dan\Documents\WebApi Final\WebApi-Final\Back-End\api\bin\Debug\netcoreapp2.2\Validation.pdb
+C:\Users\Dan\Documents\WebApi Final\WebApi-Final\Back-End\api\obj\Debug\netcoreapp2.2\api.csprojAssemblyReference.cache
+C:\Users\Dan\Documents\WebApi Final\WebApi-Final\Back-End\api\obj\Debug\netcoreapp2.2\api.csproj.CoreCompileInputs.cache
+C:\Users\Dan\Documents\WebApi Final\WebApi-Final\Back-End\api\obj\Debug\netcoreapp2.2\api.RazorAssemblyInfo.cache
+C:\Users\Dan\Documents\WebApi Final\WebApi-Final\Back-End\api\obj\Debug\netcoreapp2.2\api.RazorAssemblyInfo.cs
+C:\Users\Dan\Documents\WebApi Final\WebApi-Final\Back-End\api\obj\Debug\netcoreapp2.2\api.AssemblyInfoInputs.cache
+C:\Users\Dan\Documents\WebApi Final\WebApi-Final\Back-End\api\obj\Debug\netcoreapp2.2\api.AssemblyInfo.cs
+C:\Users\Dan\Documents\WebApi Final\WebApi-Final\Back-End\api\obj\Debug\netcoreapp2.2\api.RazorTargetAssemblyInfo.cache
+C:\Users\Dan\Documents\WebApi Final\WebApi-Final\Back-End\api\obj\Debug\netcoreapp2.2\api.csproj.CopyComplete
+C:\Users\Dan\Documents\WebApi Final\WebApi-Final\Back-End\api\obj\Debug\netcoreapp2.2\api.dll
+C:\Users\Dan\Documents\WebApi Final\WebApi-Final\Back-End\api\obj\Debug\netcoreapp2.2\api.pdb
+C:\Users\tx-sup-07\source\repos\danzinduarte\WebApi-Final\Back-End\api\obj\Debug\netcoreapp2.2\api.dll
+C:\Users\tx-sup-07\source\repos\danzinduarte\WebApi-Final\Back-End\api\obj\Debug\netcoreapp2.2\api.pdb
+C:\Users\tx-sup-07\source\repos\danzinduarte\WebApi-Final\Back-End\api\bin\Debug\netcoreapp2.2\api.deps.json
+C:\Users\tx-sup-07\source\repos\danzinduarte\WebApi-Final\Back-End\api\bin\Debug\netcoreapp2.2\api.runtimeconfig.json
+C:\Users\tx-sup-07\source\repos\danzinduarte\WebApi-Final\Back-End\api\bin\Debug\netcoreapp2.2\api.runtimeconfig.dev.json
+C:\Users\tx-sup-07\source\repos\danzinduarte\WebApi-Final\Back-End\api\bin\Debug\netcoreapp2.2\api.dll
+C:\Users\tx-sup-07\source\repos\danzinduarte\WebApi-Final\Back-End\api\bin\Debug\netcoreapp2.2\api.pdb
+C:\Users\tx-sup-07\source\repos\danzinduarte\WebApi-Final\Back-End\api\bin\Debug\netcoreapp2.2\Validation.dll
+C:\Users\tx-sup-07\source\repos\danzinduarte\WebApi-Final\Back-End\api\bin\Debug\netcoreapp2.2\Validation.pdb
+C:\Users\tx-sup-07\source\repos\danzinduarte\WebApi-Final\Back-End\api\obj\Debug\netcoreapp2.2\api.csprojAssemblyReference.cache
+C:\Users\tx-sup-07\source\repos\danzinduarte\WebApi-Final\Back-End\api\obj\Debug\netcoreapp2.2\api.csproj.CoreCompileInputs.cache
+C:\Users\tx-sup-07\source\repos\danzinduarte\WebApi-Final\Back-End\api\obj\Debug\netcoreapp2.2\api.RazorAssemblyInfo.cache
+C:\Users\tx-sup-07\source\repos\danzinduarte\WebApi-Final\Back-End\api\obj\Debug\netcoreapp2.2\api.RazorAssemblyInfo.cs
+C:\Users\tx-sup-07\source\repos\danzinduarte\WebApi-Final\Back-End\api\obj\Debug\netcoreapp2.2\api.AssemblyInfoInputs.cache
+C:\Users\tx-sup-07\source\repos\danzinduarte\WebApi-Final\Back-End\api\obj\Debug\netcoreapp2.2\api.AssemblyInfo.cs
+C:\Users\tx-sup-07\source\repos\danzinduarte\WebApi-Final\Back-End\api\obj\Debug\netcoreapp2.2\api.RazorTargetAssemblyInfo.cache
+C:\Users\tx-sup-07\source\repos\danzinduarte\WebApi-Final\Back-End\api\obj\Debug\netcoreapp2.2\api.csproj.CopyComplete
+C:\Users\tx-sup-07\Documents\estudos\WebApi-Final\Back-End\api\obj\Debug\netcoreapp2.2\api.csprojAssemblyReference.cache
+C:\Users\tx-sup-07\Documents\estudos\WebApi-Final\Back-End\api\obj\Debug\netcoreapp2.2\api.csproj.CoreCompileInputs.cache
+C:\Users\tx-sup-07\Documents\estudos\WebApi-Final\Back-End\api\obj\Debug\netcoreapp2.2\api.RazorAssemblyInfo.cache
+C:\Users\tx-sup-07\Documents\estudos\WebApi-Final\Back-End\api\obj\Debug\netcoreapp2.2\api.RazorAssemblyInfo.cs
+C:\Users\tx-sup-07\Documents\estudos\WebApi-Final\Back-End\api\obj\Debug\netcoreapp2.2\api.AssemblyInfoInputs.cache
+C:\Users\tx-sup-07\Documents\estudos\WebApi-Final\Back-End\api\obj\Debug\netcoreapp2.2\api.AssemblyInfo.cs
+C:\Users\tx-sup-07\Documents\estudos\WebApi-Final\Back-End\api\obj\Debug\netcoreapp2.2\api.dll
+C:\Users\tx-sup-07\Documents\estudos\WebApi-Final\Back-End\api\obj\Debug\netcoreapp2.2\api.pdb
+C:\Users\tx-sup-07\Documents\estudos\WebApi-Final\Back-End\api\bin\Debug\netcoreapp2.2\api.deps.json
+C:\Users\tx-sup-07\Documents\estudos\WebApi-Final\Back-End\api\bin\Debug\netcoreapp2.2\api.runtimeconfig.json
+C:\Users\tx-sup-07\Documents\estudos\WebApi-Final\Back-End\api\bin\Debug\netcoreapp2.2\api.runtimeconfig.dev.json
+C:\Users\tx-sup-07\Documents\estudos\WebApi-Final\Back-End\api\bin\Debug\netcoreapp2.2\api.dll
+C:\Users\tx-sup-07\Documents\estudos\WebApi-Final\Back-End\api\bin\Debug\netcoreapp2.2\api.pdb
+C:\Users\tx-sup-07\Documents\estudos\WebApi-Final\Back-End\api\bin\Debug\netcoreapp2.2\Validation.dll
+C:\Users\tx-sup-07\Documents\estudos\WebApi-Final\Back-End\api\bin\Debug\netcoreapp2.2\Validation.pdb
+C:\Users\tx-sup-07\Documents\estudos\WebApi-Final\Back-End\api\obj\Debug\netcoreapp2.2\api.RazorTargetAssemblyInfo.cache
+C:\Users\tx-sup-07\Documents\estudos\WebApi-Final\Back-End\api\obj\Debug\netcoreapp2.2\api.csproj.CopyComplete
+C:\Users\tx-sup-07\Documents\estudos\Leitos-App\Back-End\api\obj\Debug\netcoreapp2.2\api.csprojAssemblyReference.cache
+C:\Users\tx-sup-07\Documents\estudos\Leitos-App\Back-End\api\obj\Debug\netcoreapp2.2\api.csproj.CoreCompileInputs.cache
+C:\Users\tx-sup-07\Documents\estudos\Leitos-App\Back-End\api\obj\Debug\netcoreapp2.2\api.RazorAssemblyInfo.cache
+C:\Users\tx-sup-07\Documents\estudos\Leitos-App\Back-End\api\obj\Debug\netcoreapp2.2\api.RazorAssemblyInfo.cs
+C:\Users\tx-sup-07\Documents\estudos\Leitos-App\Back-End\api\obj\Debug\netcoreapp2.2\api.AssemblyInfoInputs.cache
+C:\Users\tx-sup-07\Documents\estudos\Leitos-App\Back-End\api\obj\Debug\netcoreapp2.2\api.AssemblyInfo.cs
+C:\Users\tx-sup-07\Documents\estudos\Leitos-App\Back-End\api\obj\Debug\netcoreapp2.2\api.dll
+C:\Users\tx-sup-07\Documents\estudos\Leitos-App\Back-End\api\obj\Debug\netcoreapp2.2\api.pdb
+C:\Users\tx-sup-07\Documents\estudos\Leitos-App\Back-End\api\bin\Debug\netcoreapp2.2\api.deps.json
+C:\Users\tx-sup-07\Documents\estudos\Leitos-App\Back-End\api\bin\Debug\netcoreapp2.2\api.runtimeconfig.json
+C:\Users\tx-sup-07\Documents\estudos\Leitos-App\Back-End\api\bin\Debug\netcoreapp2.2\api.runtimeconfig.dev.json
+C:\Users\tx-sup-07\Documents\estudos\Leitos-App\Back-End\api\bin\Debug\netcoreapp2.2\api.dll
+C:\Users\tx-sup-07\Documents\estudos\Leitos-App\Back-End\api\bin\Debug\netcoreapp2.2\api.pdb
+C:\Users\tx-sup-07\Documents\estudos\Leitos-App\Back-End\api\bin\Debug\netcoreapp2.2\Validation.dll
+C:\Users\tx-sup-07\Documents\estudos\Leitos-App\Back-End\api\bin\Debug\netcoreapp2.2\Validation.pdb
+C:\Users\tx-sup-07\Documents\estudos\Leitos-App\Back-End\api\obj\Debug\netcoreapp2.2\api.RazorTargetAssemblyInfo.cache
+C:\Users\tx-sup-07\Documents\estudos\Leitos-App\Back-End\api\obj\Debug\netcoreapp2.2\api.csproj.CopyComplete
+C:\Users\tx-sup-07\source\repos\danzinduarte\Leitos-App\Back-End\api\bin\Debug\netcoreapp2.2\api.deps.json
+C:\Users\tx-sup-07\source\repos\danzinduarte\Leitos-App\Back-End\api\bin\Debug\netcoreapp2.2\api.runtimeconfig.json
+C:\Users\tx-sup-07\source\repos\danzinduarte\Leitos-App\Back-End\api\bin\Debug\netcoreapp2.2\api.runtimeconfig.dev.json
+C:\Users\tx-sup-07\source\repos\danzinduarte\Leitos-App\Back-End\api\bin\Debug\netcoreapp2.2\api.dll
+C:\Users\tx-sup-07\source\repos\danzinduarte\Leitos-App\Back-End\api\bin\Debug\netcoreapp2.2\api.pdb
+C:\Users\tx-sup-07\source\repos\danzinduarte\Leitos-App\Back-End\api\bin\Debug\netcoreapp2.2\Validation.dll
+C:\Users\tx-sup-07\source\repos\danzinduarte\Leitos-App\Back-End\api\bin\Debug\netcoreapp2.2\Validation.pdb
+C:\Users\tx-sup-07\source\repos\danzinduarte\Leitos-App\Back-End\api\obj\Debug\netcoreapp2.2\api.csprojAssemblyReference.cache
+C:\Users\tx-sup-07\source\repos\danzinduarte\Leitos-App\Back-End\api\obj\Debug\netcoreapp2.2\api.csproj.CoreCompileInputs.cache
+C:\Users\tx-sup-07\source\repos\danzinduarte\Leitos-App\Back-End\api\obj\Debug\netcoreapp2.2\api.RazorAssemblyInfo.cache
+C:\Users\tx-sup-07\source\repos\danzinduarte\Leitos-App\Back-End\api\obj\Debug\netcoreapp2.2\api.RazorAssemblyInfo.cs
+C:\Users\tx-sup-07\source\repos\danzinduarte\Leitos-App\Back-End\api\obj\Debug\netcoreapp2.2\api.AssemblyInfoInputs.cache
+C:\Users\tx-sup-07\source\repos\danzinduarte\Leitos-App\Back-End\api\obj\Debug\netcoreapp2.2\api.AssemblyInfo.cs
+C:\Users\tx-sup-07\source\repos\danzinduarte\Leitos-App\Back-End\api\obj\Debug\netcoreapp2.2\api.RazorTargetAssemblyInfo.cache
+C:\Users\tx-sup-07\source\repos\danzinduarte\Leitos-App\Back-End\api\obj\Debug\netcoreapp2.2\api.csproj.CopyComplete
+C:\Users\tx-sup-07\source\repos\danzinduarte\Leitos-App\Back-End\api\obj\Debug\netcoreapp2.2\api.dll
+C:\Users\tx-sup-07\source\repos\danzinduarte\Leitos-App\Back-End\api\obj\Debug\netcoreapp2.2\api.pdb
+C:\Users\tx-sup-07\source\repos\danzinduarte\Leitos-App\leitos aplicativo\Back-End\api\bin\Debug\netcoreapp2.2\api.deps.json
+C:\Users\tx-sup-07\source\repos\danzinduarte\Leitos-App\leitos aplicativo\Back-End\api\bin\Debug\netcoreapp2.2\api.runtimeconfig.json
+C:\Users\tx-sup-07\source\repos\danzinduarte\Leitos-App\leitos aplicativo\Back-End\api\bin\Debug\netcoreapp2.2\api.runtimeconfig.dev.json
+C:\Users\tx-sup-07\source\repos\danzinduarte\Leitos-App\leitos aplicativo\Back-End\api\bin\Debug\netcoreapp2.2\api.dll
+C:\Users\tx-sup-07\source\repos\danzinduarte\Leitos-App\leitos aplicativo\Back-End\api\bin\Debug\netcoreapp2.2\api.pdb
+C:\Users\tx-sup-07\source\repos\danzinduarte\Leitos-App\leitos aplicativo\Back-End\api\bin\Debug\netcoreapp2.2\Validation.dll
+C:\Users\tx-sup-07\source\repos\danzinduarte\Leitos-App\leitos aplicativo\Back-End\api\bin\Debug\netcoreapp2.2\Validation.pdb
+C:\Users\tx-sup-07\source\repos\danzinduarte\Leitos-App\leitos aplicativo\Back-End\api\obj\Debug\netcoreapp2.2\api.csprojAssemblyReference.cache
+C:\Users\tx-sup-07\source\repos\danzinduarte\Leitos-App\leitos aplicativo\Back-End\api\obj\Debug\netcoreapp2.2\api.csproj.CoreCompileInputs.cache
+C:\Users\tx-sup-07\source\repos\danzinduarte\Leitos-App\leitos aplicativo\Back-End\api\obj\Debug\netcoreapp2.2\api.RazorAssemblyInfo.cache
+C:\Users\tx-sup-07\source\repos\danzinduarte\Leitos-App\leitos aplicativo\Back-End\api\obj\Debug\netcoreapp2.2\api.RazorAssemblyInfo.cs
+C:\Users\tx-sup-07\source\repos\danzinduarte\Leitos-App\leitos aplicativo\Back-End\api\obj\Debug\netcoreapp2.2\api.AssemblyInfoInputs.cache
+C:\Users\tx-sup-07\source\repos\danzinduarte\Leitos-App\leitos aplicativo\Back-End\api\obj\Debug\netcoreapp2.2\api.AssemblyInfo.cs
+C:\Users\tx-sup-07\source\repos\danzinduarte\Leitos-App\leitos aplicativo\Back-End\api\obj\Debug\netcoreapp2.2\api.RazorTargetAssemblyInfo.cache
+C:\Users\tx-sup-07\source\repos\danzinduarte\Leitos-App\leitos aplicativo\Back-End\api\obj\Debug\netcoreapp2.2\api.csproj.CopyComplete
+C:\Users\tx-sup-07\source\repos\danzinduarte\Leitos-App\leitos aplicativo\Back-End\api\obj\Debug\netcoreapp2.2\api.dll
+C:\Users\tx-sup-07\source\repos\danzinduarte\Leitos-App\leitos aplicativo\Back-End\api\obj\Debug\netcoreapp2.2\api.pdb

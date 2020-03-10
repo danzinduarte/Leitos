@@ -1,0 +1,25 @@
+<h2 style="text-align:center"> CONDOMINO</h2>
+<div class="login" style="background-color:#d4d4d4a6">
+<div layout="column" >    
+    <form name="vm.loginForm" layout="column" >
+        <md-input-container>
+            <label>Email</label>
+            <input type="email" name="email" required ng-model="vm.email"> 
+            <div ng-messages="vm.loginForm.email.$error">
+                <div ng-message="required">Este campo é obrigatório</div>
+                <div ng-message="email">Informe um endereço de email válido!</div>
+            </div>	             
+        </md-input-container>
+        <md-input-container>
+                <label>Senha</label>
+                <input type="password" name="senha" required ng-model="vm.senha"> 
+                <div ng-messages="vm.loginForm.senha.$error">
+                    <div ng-message="required">Este campo é obrigatório</div>
+                </div>	             
+        </md-input-container>
+    </form>    
+    <md-button class="md-raised md-primary" ng-click="vm.signUp()" ng-disabled="vm.loginForm.$invalid">
+        Login
+    </md-button>
+</div>
+</div>

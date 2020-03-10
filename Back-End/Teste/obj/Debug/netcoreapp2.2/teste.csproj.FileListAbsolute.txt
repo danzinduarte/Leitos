@@ -1,0 +1,61 @@
+C:\Users\Danilo\Documents\Sistema-Viagem-master\Back-End\teste\obj\Debug\netcoreapp2.2\teste.csprojAssemblyReference.cache
+C:\Users\Danilo\Documents\Sistema-Viagem-master\Back-End\teste\obj\Debug\netcoreapp2.2\teste.csproj.CoreCompileInputs.cache
+C:\Users\Danilo\Documents\Sistema-Viagem-master\Back-End\teste\obj\Debug\netcoreapp2.2\teste.AssemblyInfoInputs.cache
+C:\Users\Danilo\Documents\Sistema-Viagem-master\Back-End\teste\obj\Debug\netcoreapp2.2\teste.AssemblyInfo.cs
+C:\Users\Danilo\Documents\Sistema-Viagem-master\Back-End\teste\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Danilo\Documents\Sistema-Viagem-master\Back-End\teste\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Danilo\Documents\Sistema-Viagem-master\Back-End\teste\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Danilo\Documents\Sistema-Viagem-master\Back-End\teste\bin\Debug\netcoreapp2.2\teste.deps.json
+C:\Users\Danilo\Documents\Sistema-Viagem-master\Back-End\teste\bin\Debug\netcoreapp2.2\teste.runtimeconfig.json
+C:\Users\Danilo\Documents\Sistema-Viagem-master\Back-End\teste\bin\Debug\netcoreapp2.2\teste.runtimeconfig.dev.json
+C:\Users\Danilo\Documents\Sistema-Viagem-master\Back-End\teste\bin\Debug\netcoreapp2.2\teste.dll
+C:\Users\Danilo\Documents\Sistema-Viagem-master\Back-End\teste\bin\Debug\netcoreapp2.2\teste.pdb
+C:\Users\Danilo\Documents\Sistema-Viagem-master\Back-End\teste\bin\Debug\netcoreapp2.2\api.dll
+C:\Users\Danilo\Documents\Sistema-Viagem-master\Back-End\teste\bin\Debug\netcoreapp2.2\api.pdb
+C:\Users\Danilo\Documents\Sistema-Viagem-master\Back-End\teste\obj\Debug\netcoreapp2.2\teste.csproj.CopyComplete
+C:\Users\Danilo\Documents\Sistema-Viagem-master\Back-End\teste\obj\Debug\netcoreapp2.2\teste.dll
+C:\Users\Danilo\Documents\Sistema-Viagem-master\Back-End\teste\obj\Debug\netcoreapp2.2\teste.pdb
+C:\Users\Danilo\Documents\sistema de viagens\Back-End\Teste\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Danilo\Documents\sistema de viagens\Back-End\Teste\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Danilo\Documents\sistema de viagens\Back-End\Teste\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Danilo\Documents\sistema de viagens\Back-End\Teste\bin\Debug\netcoreapp2.2\teste.deps.json
+C:\Users\Danilo\Documents\sistema de viagens\Back-End\Teste\bin\Debug\netcoreapp2.2\teste.runtimeconfig.json
+C:\Users\Danilo\Documents\sistema de viagens\Back-End\Teste\bin\Debug\netcoreapp2.2\teste.runtimeconfig.dev.json
+C:\Users\Danilo\Documents\sistema de viagens\Back-End\Teste\bin\Debug\netcoreapp2.2\teste.dll
+C:\Users\Danilo\Documents\sistema de viagens\Back-End\Teste\bin\Debug\netcoreapp2.2\teste.pdb
+C:\Users\Danilo\Documents\sistema de viagens\Back-End\Teste\bin\Debug\netcoreapp2.2\api.dll
+C:\Users\Danilo\Documents\sistema de viagens\Back-End\Teste\bin\Debug\netcoreapp2.2\api.pdb
+C:\Users\Danilo\Documents\sistema de viagens\Back-End\Teste\obj\Debug\netcoreapp2.2\teste.csprojAssemblyReference.cache
+C:\Users\Danilo\Documents\sistema de viagens\Back-End\Teste\obj\Debug\netcoreapp2.2\teste.csproj.CoreCompileInputs.cache
+C:\Users\Danilo\Documents\sistema de viagens\Back-End\Teste\obj\Debug\netcoreapp2.2\teste.AssemblyInfoInputs.cache
+C:\Users\Danilo\Documents\sistema de viagens\Back-End\Teste\obj\Debug\netcoreapp2.2\teste.AssemblyInfo.cs
+C:\Users\Danilo\Documents\sistema de viagens\Back-End\Teste\obj\Debug\netcoreapp2.2\teste.csproj.CopyComplete
+C:\Users\Danilo\Documents\sistema de viagens\Back-End\Teste\obj\Debug\netcoreapp2.2\teste.dll
+C:\Users\Danilo\Documents\sistema de viagens\Back-End\Teste\obj\Debug\netcoreapp2.2\teste.pdb
+c:\Users\Danilo\Documents\sistema de viagens\Back-End\Teste\bin\Debug\netcoreapp2.2\Validation.dll
+c:\Users\Danilo\Documents\sistema de viagens\Back-End\Teste\bin\Debug\netcoreapp2.2\Validation.pdb
+C:\Users\Danilo\Documents\WebApi Final\Back-End\Teste\obj\Debug\netcoreapp2.2\teste.csprojAssemblyReference.cache
+C:\Users\Danilo\Documents\WebApi Final\Back-End\Teste\obj\Debug\netcoreapp2.2\teste.csproj.CoreCompileInputs.cache
+C:\Users\Danilo\Documents\WebApi Final\Back-End\Teste\obj\Debug\netcoreapp2.2\teste.AssemblyInfoInputs.cache
+C:\Users\Danilo\Documents\WebApi Final\Back-End\Teste\obj\Debug\netcoreapp2.2\teste.AssemblyInfo.cs
+C:\Users\Danilo\Documents\WebApi Final\Back-End\Teste\obj\Debug\netcoreapp2.2\teste.dll
+C:\Users\Danilo\Documents\WebApi Final\Back-End\Teste\obj\Debug\netcoreapp2.2\teste.pdb
+c:\Users\Dan\Documents\WebApi Final\WebApi-Final\Back-End\Teste\obj\Debug\netcoreapp2.2\teste.dll
+c:\Users\Dan\Documents\WebApi Final\WebApi-Final\Back-End\Teste\obj\Debug\netcoreapp2.2\teste.pdb
+C:\Users\Dan\Documents\WebApi Final\WebApi-Final\Back-End\Teste\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Dan\Documents\WebApi Final\WebApi-Final\Back-End\Teste\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Dan\Documents\WebApi Final\WebApi-Final\Back-End\Teste\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Dan\Documents\WebApi Final\WebApi-Final\Back-End\Teste\bin\Debug\netcoreapp2.2\teste.deps.json
+C:\Users\Dan\Documents\WebApi Final\WebApi-Final\Back-End\Teste\bin\Debug\netcoreapp2.2\teste.runtimeconfig.json
+C:\Users\Dan\Documents\WebApi Final\WebApi-Final\Back-End\Teste\bin\Debug\netcoreapp2.2\teste.runtimeconfig.dev.json
+C:\Users\Dan\Documents\WebApi Final\WebApi-Final\Back-End\Teste\bin\Debug\netcoreapp2.2\teste.dll
+C:\Users\Dan\Documents\WebApi Final\WebApi-Final\Back-End\Teste\bin\Debug\netcoreapp2.2\teste.pdb
+C:\Users\Dan\Documents\WebApi Final\WebApi-Final\Back-End\Teste\bin\Debug\netcoreapp2.2\api.dll
+C:\Users\Dan\Documents\WebApi Final\WebApi-Final\Back-End\Teste\bin\Debug\netcoreapp2.2\Validation.dll
+C:\Users\Dan\Documents\WebApi Final\WebApi-Final\Back-End\Teste\bin\Debug\netcoreapp2.2\api.pdb
+C:\Users\Dan\Documents\WebApi Final\WebApi-Final\Back-End\Teste\bin\Debug\netcoreapp2.2\Validation.pdb
+C:\Users\Dan\Documents\WebApi Final\WebApi-Final\Back-End\Teste\obj\Debug\netcoreapp2.2\teste.csprojAssemblyReference.cache
+C:\Users\Dan\Documents\WebApi Final\WebApi-Final\Back-End\Teste\obj\Debug\netcoreapp2.2\teste.csproj.CoreCompileInputs.cache
+C:\Users\Dan\Documents\WebApi Final\WebApi-Final\Back-End\Teste\obj\Debug\netcoreapp2.2\teste.AssemblyInfoInputs.cache
+C:\Users\Dan\Documents\WebApi Final\WebApi-Final\Back-End\Teste\obj\Debug\netcoreapp2.2\teste.AssemblyInfo.cs
+C:\Users\Dan\Documents\WebApi Final\WebApi-Final\Back-End\Teste\obj\Debug\netcoreapp2.2\teste.csproj.CopyComplete

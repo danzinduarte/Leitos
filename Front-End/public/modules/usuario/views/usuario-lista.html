@@ -1,0 +1,56 @@
+<div layout="column">
+    <div layout="row">  
+        <img src="/assets/img/user.svg" class="contact">                
+        <md-input-container flex="95">
+            <label>Procure por seus condominos</label>
+            <input type="text" name="nome" ng-model="vm.query.text">
+        </md-input-container>
+    </div>     
+<md-toolbar>
+    <md-fab-actions class="md-toolbar-tools">
+        
+        <md-button class="md-icon-button" ng-click="vm.novoCondomino()">
+            <md-tooltip md-direction="right">Novo Condômino</md-tooltip>
+            <md-icon md-svg-src="assets/img/plus.svg"></md-icon>
+        </md-button>
+            
+    </md-fab-actions>
+</md-toolbar>
+
+<md-card class="row-card md-whiteframe-20dp" ng-repeat="usuarios in vm.dataset | filter:{pessoa:{nome : vm.query.text}}">
+    <div layout="row">
+        
+        <img ng-src="/assets/img/network.svg" class="md-avatar icon-lista" alt="Condomino"/>
+
+        <div layout="column" flex>
+            <div layout="row">
+              <span flex></span>                 
+              
+              <md-menu>
+                  <md-button class="md-icon-button" ng-click="$mdMenu.open($event)">
+                      <img src="/assets/img//mote_vert.png" >                      
+                  </md-button>
+                  <md-menu-content width="3">
+                    <md-menu-item>
+                        <md-button ng-click="vm.editaCondomino(condomino.id)"> Editar </md-button>
+                    </md-menu-item>
+                    <md-menu-item>
+                        <md-button ng-click="vm.exclui($event,condomino)"> Excluir</md-button>
+                    </md-menu-item>
+                  </md-menu-content>
+              </md-menu>
+
+            </div>
+
+            <div layout="column" layout-align="start start">                     
+                <span class="font-size-18 texto-cinza-medio negrito">Condomino: {{condomino.pessoa.nome}}</span>
+                <span class="font-size-16 texto-cinza-claro negrito">Digital: {{condomino.pessoa.digital}}</span>
+                <span class="font-size-16 texto-cinza-claro negrito">Endereço: {{condomino.endereco}}</span>
+                <span class="font-size-16 texto-cinza-claro">Condômino desde: {{condomino.pessoa.criacao | date:'dd/MM/yyyy'}}</span>
+            </div>
+        </div>
+    </div>
+      
+</md-card>
+</div>
+
